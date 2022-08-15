@@ -15,10 +15,10 @@ After thorough cleaning of data, meticulous manipulation and analysis. these wer
 
 ![Candidate_Count](https://github.com/A-Mossa/Pewlett-Hackard-Analysis/blob/main/Candpool.png)
 
-## School District Analysis Summary
-The code utilized this analysis is sufficient to carry out the same analysis of results to almost any similar situation with minor tweaks.
-given the next project posses a similar database, the code can be slightly refactored to accomodate difference and changes if the desired outcome is of the same nature as this audit.
+## Analysis Summary
+This analysis was carried out with mainly two questions in mind:
+- *'How many roles will need to be filled as the "silver tsunami" begins to make an impact?'*
+  - the ideal answer to that question is to replace exactly as much employees as the ones that are leaving, that's around 70000 across the entire company. However, if the company is planning on enhancing and updating its management chain structure to the latest standards, it would require around 2/3 of the total amount. Human Resources would be more qualified to give the definitive answer on that matter.
 
-Using pandas revealed that the average of student grades were indirectly proportional to school size and spending, most notably the Charter school district is a better environment for students as they scored higher in math and reading.
-
-in the future should the stake holders wish to include additional attributes, then the code maybe refactored to create code that would be slightly modified but would yield the same results
+- *'Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?'
+  - Based on the outcome of that task, the short answer is yes; Altough, they might be spread too thin to cover as much eligible candidates as possible. This was determinded to be an effective temporary measure, but an ineffective long term solution.

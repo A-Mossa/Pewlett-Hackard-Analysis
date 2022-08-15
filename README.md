@@ -13,6 +13,8 @@ After thorough cleaning of data, meticulous manipulation and analysis. these wer
 - The mentorship program that management proposed, seems to somewhat alleviate the problem but in no means a root solution to depend on.
 - A decent pool of Engineers ,Senior Engineers, and Senior Staff looks to be viable candidates for mentorship to temporarily keep operations going.
 
+![Candidate_Count](https://github.com/A-Mossa/Pewlett-Hackard-Analysis/blob/main/Candpool.png)
+
 ## School District Analysis Summary
 The code utilized this analysis is sufficient to carry out the same analysis of results to almost any similar situation with minor tweaks.
 given the next project posses a similar database, the code can be slightly refactored to accomodate difference and changes if the desired outcome is of the same nature as this audit.

@@ -10,21 +10,8 @@ After thorough cleaning of data, meticulous manipulation and analysis. these wer
   
 ![Titles_Count](https://github.com/A-Mossa/Pewlett-Hackard-Analysis/blob/main/titlescount.png)
 
-- Bottom 5 schools :
-  - Rodriguez High School
-  - Figueroa High School
-  - Huang High School	
-  - Hernandez High School	
-  - Johnson High School	
-- Passing rate per Capita:
-![PassPerCapita](https://github.com/A-Mossa/School_District_Analysis/blob/main/SDAImages/SchoolSpend.png)
-  - When investigating the spending relation to overall passing, we found that strange enough the schools with the least spending budget per student, had a relatively higher overall pass rate
--School Size:
-![schoolsize](https://github.com/A-Mossa/School_District_Analysis/blob/main/SDAImages/SchoolSize.png)
-  - It was concluded from thorough analysis that the smaller the size of a school, the higher the overall passing rate. and the bigger the size of the school, the more the probability of failure increases.
--School Type :
-![schooltype](https://github.com/A-Mossa/School_District_Analysis/blob/main/SDAImages/Schooltype.png)
-  - The two types of schools in the dataset were District and Chartered. Across the board, Charter type schools enjoyed higher passing rates in all areas, that includes reading, mathematics, and overall passing rate.
+- The mentorship program that management proposed, seems to somewhat alleviate the problem but in no means a root solution to depend on.
+- A decent pool of Engineers ,Senior Engineers, and Senior Staff looks to be viable candidates for mentorship to temporarily keep operations going.
 
 ## School District Analysis Summary
 The code utilized this analysis is sufficient to carry out the same analysis of results to almost any similar situation with minor tweaks.
